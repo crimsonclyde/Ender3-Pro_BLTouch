@@ -1,5 +1,9 @@
 # Ender3-Pro_BLTouch
 
+!!!!! DONT USE !!!!!
+STEPPERS OVERHEATING >100°C
+
+
 !Do this on your own risk! I do not take responsibility. This is to find a way not the ultimate solution!
 
 ### Ender3-Pro Hardware Mod List
